@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://damarpn.github.io/blog/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://damarpn.github.io/</loc>
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>https://damarpn.github.io/series/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://damarpn.github.io/tags/</loc>
   </url>
   
 </urlset>
